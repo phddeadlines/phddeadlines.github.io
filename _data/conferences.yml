@@ -1,113 +1,104 @@
 ---
-- title: Carnegie Mellon - Machine Learning PhD
+- title: Carnegie Mellon PhD
   year: 2023
   id: cmu23
-  full_name: Carnegie Mellon University PhD in Machine Learning
-  link: ""
-  deadline: December 13, 2023
+  full_name: Carnegie Mellon University PhD
+  link: https://www.ml.cmu.edu/academics/machine-learning-phd.html
+  deadline: December 13, 2023 (3:00 p.m. EST)
   timezone: UTC-12
   sub: ML
-  note: "Renowned for its cutting-edge research in machine learning and AI."
+  note: "Early Application Deadline – November 29, 2023 (3:00 p.m. EST) and Final Application Deadline - December 13, 2023 (3:00 p.m. EST)"
 
-- title: UIUC - ML PhD
+- title: UIUC PhD
   year: 2023
   id: uiuc23
-  full_name: University of Illinois at Urbana-Champaign PhD in Machine Learning
-  link: ""
-  deadline: December 1
+  full_name: University of Illinois at Urbana-Champaign PhD
+  link: https://cs.illinois.edu/admissions/graduate/application-deadlines
+  deadline: December 15, 2023
   timezone: UTC-12
   sub: ML
-  note: "Offers a collaborative and innovative research environment in ML."
+  note: "Offers a collaborative and innovative research environment."
 
-- title: UC San Diego - ML PhD
+- title: UC San Diego PhD
   year: 2023
   id: ucsd23
-  full_name: University of California, San Diego PhD in Machine Learning
-  link: ""
+  full_name: University of California, San Diego PhD
+  link: https://cse.ucsd.edu/graduate/admissions
   deadline: December 20, 2023
   timezone: UTC-12
   sub: ML
-  note: "Focuses on interdisciplinary ML research with real-world impact."
+  note: "Focuses on interdisciplinary research with real-world impact."
 
-- title: Tsinghua University - Machine Learning PhD
-  year: 2023
-  id: tsinghua23
-  full_name: Tsinghua University PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
-  timezone: UTC+8
-  sub: ML
-  note: "A leading institution in ML research, offering extensive resources and expertise."
 
-- title: Georgia Tech - ML PhD
+- title: Georgia Tech PhD
   year: 2023
   id: gatech23
-  full_name: Georgia Institute of Technology PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: Georgia Institute of Technology PhD
+  link: https://grad.gatech.edu/degree-programs/machine-learning
+  deadline: December 15, 2023
   timezone: UTC-5
   sub: ML
   note: "Known for its strong emphasis on practical applications of ML in various fields."
 
-- title: MIT - Machine Learning PhD
+- title: MIT PhD
   year: 2023
   id: mit23
-  full_name: Massachusetts Institute of Technology PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: Massachusetts Institute of Technology PhD
+  link: https://oge.mit.edu/programs/computational-science-and-engineering-phd/
+  deadline: December 1, 2023
   timezone: UTC-5
   sub: ML
-  note: "MIT offers a highly prestigious ML program with world-renowned faculty."
+  note: "MIT offers a highly prestigiousprogram with world-renowned faculty."
 
-- title: UC Berkeley - ML PhD
+- title: UC Berkeley PhD
   year: 2023
   id: ucb23
-  full_name: University of California, Berkeley PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: University of California, Berkeley PhD
+  link: https://grad.berkeley.edu/program/computer-science-phd/
+  deadline: December 11, 2023
   timezone: UTC-8
   sub: ML
-  note: "Focuses on innovative and interdisciplinary approaches to ML."
+  note: "Focuses on innovative and interdisciplinary approaches."
 
-- title: University of Michigan - ML PhD
+- title: University of Michigan PhD
   year: 2023
   id: umich23
-  full_name: University of Michigan PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: University of Michigan PhD
+  link: https://cee.engin.umich.edu/graduate-studies/admissions-information/
+  deadline: December 15, 2023
   timezone: UTC-5
   sub: ML
-  note: "Offers a diverse range of ML research opportunities and resources."
+  note: "Offers a diverse range of research opportunities and resources."
 
-- title: ETH Zurich - ML PhD
+- title: ETH Zurich PhD
   year: 2023
   id: ethz23
-  full_name: ETH Zurich PhD in Machine Learning
+  full_name: ETH Zurich PhD
   link: ""
-  deadline: "Placeholder Date"
+  deadline: ""
   timezone: UTC+1
   sub: ML
-  note: "ETH Zurich is renowned for its rigorous approach to ML and data science."
+  note: "ETH Zurich is renowned for its rigorous approaches"
 
-- title: University of Washington - ML PhD
+- title: University of Washington
   year: 2023
   id: uwash23
-  full_name: University of Washington PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: University of Washington PhD
+  link: https://spanport.washington.edu/phd-admission-requirements-application-procedures
+  deadline: December 15, 2023
   timezone: UTC-8
   sub: ML
-  note: "Emphasizes on innovative research in ML and its real-world applications."
+  note: "Emphasizes on innovative research and its real-world applications."
 
-- title: Stanford - ML PhD
+- title: Stanford PhD
   year: 2023
   id: stanford23
-  full_name: Stanford University PhD in Machine Learning
-  link: ""
-  deadline: "Placeholder Date"
+  full_name: Stanford University PhD
+  link: https://www.cs.stanford.edu/admissions
+  deadline: December 5, 2023
   timezone: UTC-8
   sub: ML
-  note: "Offers a comprehensive and interdisciplinary ML program."
+  note: "Offers a comprehensive and interdisciplinary programs."
 
 - title: Cornell - ML PhD
   year: 2023
