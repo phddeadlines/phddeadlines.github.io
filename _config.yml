@@ -4,11 +4,11 @@ author:
 
 domain: ""
 baseurl: "/"
-copyurl: "https://openlifescience-ai.github.io/ai-deadlines"
+copyurl: "https://phddeadlines.github.io"
 
 twitter_hashtag: 
-github_username: openlifescience-ai
-github_repo: ai-deadlines
+github_username: phddeadlines
+github_repo: phddeadlines.github.io
 
 markdown: kramdown
 ga_id:
