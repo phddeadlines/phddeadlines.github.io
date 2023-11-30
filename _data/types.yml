@@ -2,8 +2,8 @@
 - name: Machine Learning
   sub: ML
   color: "#ffd300"
-- name: Computer Vision
-  sub: CV
+- name: Computer science
+  sub: Cs
   color: "#deff0a"
 - name: Natural Language Proc
   sub: NLP
