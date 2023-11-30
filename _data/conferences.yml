@@ -1,411 +1,202 @@
 ---
-- title: ML4H
+- title: Carnegie Mellon - Machine Learning PhD
   year: 2023
-  id: ml4h23
-  full_name: Machine Learning for Health
-  link: https://ml4health.github.io/2023/
-  deadline: '2023-09-07 23:59:00'
-  abstract_deadline: '2023-09-07 23:59:00'
+  id: cmu23
+  full_name: Carnegie Mellon University PhD in Machine Learning
+  link: ""
+  deadline: December 13, 2023
   timezone: UTC-12
-  hybrid: false
-  place: New Orleans, Louisiana
-  date: Dec 10, 2023
-  start: 2023-12-10
-  end: 2023-12-10
-  hindex: None
   sub: ML
-  type: symposium
-  note: Submitted papers should describe innovative machine learning research focused
-    on relevant problems in healthcare, biomedicine, and public health.. More info <a href="https://ml4health.github.io/2023/call_for_participation.html">here</a>.
-    
-    
-- title: BioNLP
+  note: "Renowned for its cutting-edge research in machine learning and AI."
+
+- title: UIUC - ML PhD
   year: 2023
-  id: bionlp23
-  link: https://biolaysumm.org/
-  deadline: '2023-04-24 23:59:00'
-  abstract_deadline: '2023-04-24 23:59:00'
+  id: uiuc23
+  full_name: University of Illinois at Urbana-Champaign PhD in Machine Learning
+  link: ""
+  deadline: December 1
   timezone: UTC-12
-  hybrid: false
-  place: Toronto, Canada
-  date: July 13 or 14, 2023
-  start: 2023-07-13
-  end: 2023-07-13
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ACL
+  sub: ML
+  note: "Offers a collaborative and innovative research environment in ML."
 
-- title: Clinical NLP
+- title: UC San Diego - ML PhD
   year: 2023
-  id: CLP23
-  link: https://clinical-nlp.github.io/2023/
-  deadline: '2023-05-04 23:59:00'
+  id: ucsd23
+  full_name: University of California, San Diego PhD in Machine Learning
+  link: ""
+  deadline: December 20, 2023
   timezone: UTC-12
-  hybrid: false
-  place: Toronto, Canada
-  date: July 13 or 14, 2023
-  start: 2023-07-13
-  end: 2023-07-13
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ACL
+  sub: ML
+  note: "Focuses on interdisciplinary ML research with real-world impact."
 
-- title: CHIL
+- title: Tsinghua University - Machine Learning PhD
   year: 2023
-  id: CHIL23
-  full_name: Conference on Health, Inference, and Learning
-  link: https://www.chilconference.org/
-  paperslink: https://proceedings.mlr.press/v174/
-  deadline: '2023-02-03 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Cambridge, MA, United States
-  date: June 22 - 24, 2023
-  start: '2023-06-22'
-  end: '2023-06-24'
-  hindex: None
-  sub: NLP
-  type: conference
-  note: CHIL 2023 invites submissions focussed on significant problems affecting health.
-    Specifically, authors are invited to submit 8-10 page papers (with unlimited pages
-    for references). More info <a href="https://www.chilconference.org/call-for-papers.html">here</a>.
+  id: tsinghua23
+  full_name: Tsinghua University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+8
+  sub: ML
+  note: "A leading institution in ML research, offering extensive resources and expertise."
 
-- title: MLDD
+- title: Georgia Tech - ML PhD
   year: 2023
-  id: mldd23
-  full_name: Machine Learning for Drug Discovery
-  link: https://sites.google.com/view/mldd-2023/
-  deadline: '2023-02-10 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: online
-  date: 2023
-  start: 2023
-  end: 2023
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ICLR
+  id: gatech23
+  full_name: Georgia Institute of Technology PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Known for its strong emphasis on practical applications of ML in various fields."
 
-- title: MLHC
+- title: MIT - Machine Learning PhD
   year: 2023
-  id: MLHC23
-  link: https://www.mlforhc.org/
-  full_name: Machine Learning for Healthcare
-  deadline: '2023-04-24 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Lerner Hall, Columbia University, New York, NY
-  date: August 11 - 12, 2023
-  start: '2023-08-11'
-  end: '2023-08-12'
-  hindex: None
-  sub: NLP
-  type: conference
+  id: mit23
+  full_name: Massachusetts Institute of Technology PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "MIT offers a highly prestigious ML program with world-renowned faculty."
 
-- title: MLDD
-  year: 2022
-  id: mldd22
-  full_name: Machine Learning for Drug Discovery
-  link: https://sites.google.com/view/mldd-workshop-2022
-  paperslink: https://sites.google.com/view/mldd-workshop-2022/accepted-papers
-  abstract_deadline: '2022-03-01 23:59:00'
-  deadline: '2022-03-15 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: online
-  date: 2023
-  start: 2023
-  end: 2023
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ICLR
-  note: Mandatory abstract deadline on March 01, 2022. More info <a href="https://sites.google.com/view/mldd-workshop-2022/call-for-papers">here</a>.
-
-- title: CLPsych
-  year: 2022
-  id: clpsych22
-  link: https://clpsych.org/
-  deadline: '2022-04-12 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Seattle, Washington
-  date: July 15, 2022
-  start: '2022-07-15'
-  end: '2022-07-15'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: NAACL
-
-- title: NLG4H
-  year: 2022
-  id: NLG4H22
-  link: https://nlg4health.uvt.nl/
-  deadline: '2022-04-15 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: Maine, USA
-  date: July 18, 2022
-  start: '2022-07-18'
-  end: '2022-07-18'
-  hindex: None
-  sub: NLP
-  type: workshop
-
-- title: Compo Bio
-  year: 2022
-  id: cb22
-  link: https://icml-compbio.github.io/
-  paperslink: https://icml-compbio.github.io/#papers
-  deadline: '2022-05-13 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Baltimore, Maryland USA
-  date: July 22, 2022
-  start: '2022-07-22'
-  end: '2022-07-22'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ICML
-
-- title: SDAIH
-  year: 2022
-  id: sdaih22
-  full_name: Scarce Data in Artificial Intelligence for Healthcare
-  link: https://hslu-abiz.github.io/sdaih22/
-  paperslink: https://hslu-abiz.github.io/sdaih22/#acceptedpapers
-  deadline: '2022-05-20 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Vienna
-  date: July 23, 2022
-  start: '2022-07-23'
-  end: '2022-07-23'
-  hindex: None
-  sub: NLP
-  type: workshop
-
-- title: IMLH
-  year: 2022
-  id: imlh22
-  full_name: Interpretable Machine Learning in Healthcare
-  link: https://sites.google.com/view/imlh2022
-  deadline: '2022-05-30 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: Baltimore, Maryland USA
-  date: July 23, 2022
-  start: '2022-07-23'
-  end: '2022-07-23'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ICML
-
-- title: Healthcare AI and COVID-19
-  year: 2022
-  id: haicov19
-  link: https://healthcare-ai-covid19.github.io/
-  deadline: '2022-05-31 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Baltimore, Maryland USA
-  date: July 22, 2022
-  start: '2022-07-22'
-  end: '2022-07-22'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: ICML
-
-- title: DSHealth
-  year: 2022
-  id: dshealth22
-  full_name: Data Science for Healthcare
-  link: https://dshealthkdd.github.io/dshealth-2022/
-  paperslink: https://dshealthkdd.github.io/dshealth-2022/#papers
-  deadline: '2022-06-02 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Washington DC, U.S.
-  date: Aug 14, 2022
-  start: '2022-08-14'
-  end: '2022-08-14'
-  hindex: None
-  sub: null
-  type: workshop
-
-- title: Clinical NLP
-  year: 2022
-  id: CLP22
-  link: https://clinical-nlp.github.io/2022/
-  deadline: '2022-06-03 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Seattle, WA
-  date: July 14, 202
-  start: 2022-07-14
-  end: 2022-07-14
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: NAACL
-
-- title: AIMIA
-  year: 2022
-  id: aimia22
-  full_name: AI-ENABLED MEDICAL IMAGE ANALYSIS
-  link: https://vcmi.inesctec.pt/aimia_eccv/
-  deadline: '2022-07-15 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: online
-  date: Oct 24, 2022
-  start: '2022-10-24'
-  end: '2022-10-24'
-  hindex: None
-  sub: CV
-  type: workshop
-  conf_name: ECCV
-
-- title: ISIC
-  year: 2022
-  id: isic22
-  link: https://workshop2022.isic-archive.com/
-  deadline: '2022-07-17 11:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: online
-  date: Oct 23, 2022
-  start: '2022-10-23'
-  end: '2022-10-23'
-  hindex: None
-  sub: CV
-  type: wrokshop
-
-- title: ML4H
-  year: 2022
-  id: ml4h22
-  full_name: Machine Learning for Health
-  link: https://ml4health.github.io/2022/
-  paperslink: https://ml4health.github.io/2021/papers.html
-  deadline: '2022-09-01 23:59:00'
-  abstract_deadline: '2022-09-01 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: New Orleans, Louisiana
-  date: Nov 28, 2022
-  start: 2022-11-28
-  end: 2022-11-28
-  hindex: None
-  sub: NLP
-  type: workshop
-  note: Submitted papers should describe innovative machine learning research focused
-    on relevant problems in health and medicine. More info <a href="https://ml4health.github.io/2022/call_for_participation.html">here</a>.
-
-- title: TS4H
-  year: 2022
-  id: ts4h22
-  full_name: Learning from Time Series for Health
-  link: https://timeseriesforhealth.github.io/
-  paperslink: https://timeseriesforhealth.github.io/accepted_papers
-  deadline: '2022-09-30 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: New Orleans, LA, USA
-  date: Dec 2, 2022
-  start: '2022-12-02'
-  end: '2022-12-02'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: NeurIPS
-
-- title: MLSB
-  year: 2022
-  id: mlsb22
-  full_name: Machine Learning in Structural Biology
-  link: https://www.mlsb.io/
-  paperslink: https://www.mlsb.io/#accepted
-  deadline: '2022-10-01 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: New Orleans, LA, USA
-  date: Dec 3, 2022
-  start: '2022-12-03'
-  end: '2022-12-03'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: NeurIPS
-
-- title: MED-NEURIPS
-  year: 2022
-  id: med22
-  link: https://sites.google.com/view/med-neurips-2022?pli=1
-  deadline: '2022-10-03 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: New Orleans, LA, USA
-  date: Dec 2, 2022
-  start: '2022-12-02'
-  end: '2022-12-02'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: NeurIPS
-  note: Submitting an abstract is an ideal way of engaging with the workshop and to
-    showcase research in the area of machine learning for medical imaging.
-
-- title: W3PHIAI
+- title: UC Berkeley - ML PhD
   year: 2023
-  id: w3phaiai23
-  link: http://w3phiai2023.w3phi.com/index.html
-  deadline: '2022-11-15 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Washington, DC, USA
-  date: Feb 13 - 14, 2023
-  start: '2023-02-13'
-  end: '2023-02-14'
-  hindex: None
-  sub: NLP
-  type: workshop
+  id: ucb23
+  full_name: University of California, Berkeley PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-8
+  sub: ML
+  note: "Focuses on innovative and interdisciplinary approaches to ML."
 
-- title: LOUHI
-  year: 2022
-  id: louhi22
-  link: https://louhi2022.fbk.eu/
-  deadline: '2022-09-14 23:59:00'
-  timezone: UTC-12
-  hybrid: false
-  place: Abu Dhabi
-  date: Dec 07, 2022
-  start: '2022-12-07'
-  end: '2022-12-07'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: EMNLP
+- title: University of Michigan - ML PhD
+  year: 2023
+  id: umich23
+  full_name: University of Michigan PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Offers a diverse range of ML research opportunities and resources."
 
-- title: SMM4H
-  year: 2022
-  id: smm4h22
-  full_name: Social Media Mining for Health
-  link: https://healthlanguageprocessing.org/smm4h-2022/
-  deadline: '2022-08-20 23:59:00'
-  timezone: UTC-12
-  hybrid: true
-  place: Gyeongju, Republic of Korea
-  date: Oct 17, 2022
-  start: '2022-10-17'
-  end: '2022-10-17'
-  hindex: None
-  sub: NLP
-  type: workshop
-  conf_name: coling
+- title: ETH Zurich - ML PhD
+  year: 2023
+  id: ethz23
+  full_name: ETH Zurich PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+1
+  sub: ML
+  note: "ETH Zurich is renowned for its rigorous approach to ML and data science."
+
+- title: University of Washington - ML PhD
+  year: 2023
+  id: uwash23
+  full_name: University of Washington PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-8
+  sub: ML
+  note: "Emphasizes on innovative research in ML and its real-world applications."
+
+- title: Stanford - ML PhD
+  year: 2023
+  id: stanford23
+  full_name: Stanford University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-8
+  sub: ML
+  note: "Offers a comprehensive and interdisciplinary ML program."
+
+- title: Cornell - ML PhD
+  year: 2023
+  id: cornell23
+  full_name: Cornell University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Known for its strong theoretical foundations and practical applications in ML."
+
+- title: University of Maryland - ML PhD
+  year: 2023
+  id: umdcp23
+  full_name: University of Maryland, College Park PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Focuses on the integration of ML with various scientific domains."
+
+- title: Peking University - ML PhD
+  year: 2023
+  id: pku23
+  full_name: Peking University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+8
+  sub: ML
+  note: "A leading Chinese university with a strong emphasis on AI and ML research."
+
+- title: University of Toronto - ML PhD
+  year: 2023
+  id: utoronto23
+  full_name: University of Toronto PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Well-known for its research in deep learning and neural networks."
+
+- title: National University of Singapore - ML PhD
+  year: 2023
+  id: nus23
+  full_name: National University of Singapore PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+8
+  sub: ML
+  note: "Offers a diverse and globally recognized ML program."
+
+- title: Northeastern University - ML PhD
+  year: 2023
+  id: northeastern23
+  full_name: Northeastern University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-5
+  sub: ML
+  note: "Combines practical applications with strong theoretical underpinnings."
+
+- title: Shanghai Jiao Tong University - ML PhD
+  year: 2023
+  id: sjtu23
+  full_name: Shanghai Jiao Tong University PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+8
+  sub: ML
+  note: "Known for its strong engineering and technological focus in ML."
+
+- title: KAIST - ML PhD
+  year: 2023
+  id: kaist23
+  full_name: KAIST PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC+9
+  sub: ML
+  note: "South Korea's leading institute in technology and ML."
+
+- title: University of Wisconsin - Madison - ML PhD
+  year: 2023
+  id: uwisconsin23
+  full_name: University of Wisconsin - Madison PhD in Machine Learning
+  link: ""
+  deadline: "Placeholder Date"
+  timezone: UTC-6
+  sub: ML
+  note: "Offers a comprehensive program with a focus on interdisciplinary research."
+
+
